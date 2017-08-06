@@ -3,6 +3,8 @@ bin/
 
 #Eclipse
 .project
+.settings/
+.classpath
 
 # Compiled class file
 *.class
